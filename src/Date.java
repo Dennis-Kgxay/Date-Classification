@@ -2,7 +2,7 @@
 import static java.lang.System.out;
 
 /**
- * Creates a Date object and contains methods to determine whether
+ * Creates Date objects and contains methods to determine whether
  * the given date is Leap Year ot not, and what day it is (Monday, Tuesday, etc.).
  */
 class Date
